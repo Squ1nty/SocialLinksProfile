@@ -12,8 +12,7 @@ body{
 }
 
 .mainBody{
-  display: grid;
-  place-items: center;
+  display: inline-block;
   text-align: center;
   background-color: hsl(0, 0%, 12%);
 }
