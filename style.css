@@ -1,0 +1,39 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: hsl(0, 0%, 8%);
+
+  max-width: 100vw;
+  max-height: 100vh;
+
+  font-size: 14px;
+  color: white;
+  font-family: inter, Arial;
+}
+
+.mainBody{
+  display: grid;
+  place-items: center;
+  text-align: center;
+  background-color: hsl(0, 0%, 12%);
+}
+.userProfileImg{
+  width: 4rem;
+  border-radius: 2rem;
+}
+.userName{
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+.userLocation{
+  color: hsl(75, 94%, 57%);
+  font-weight: 600;  
+}
+
+.socialMediaLinkContainer{
+  background-color: hsl(0, 0%, 20%);
+
+  padding: 1px 100px;
+  border-radius: 10px;
+  margin: 10px 0px;
+}
