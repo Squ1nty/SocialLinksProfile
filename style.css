@@ -27,10 +27,13 @@ body{
 .userName{
   font-weight: 600;
   font-size: 1.5rem;
+  margin-bottom: 5px;
 }
 .userLocation{
   color: hsl(75, 94%, 57%);
-  font-weight: 600;  
+  font-weight: 600; 
+  margin-top: 5px;
+  margin-bottom: 30px;
 }
 
 .socialMediaLinkContainer{
